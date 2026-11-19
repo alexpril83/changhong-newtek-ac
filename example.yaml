@@ -34,8 +34,8 @@ external_components:
   - source:
       type: local
       path: components
-  # Или напрямую из вашего репозитория GitHub:
-  # - source: github://ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ
+  # Или напрямую из репозитория GitHub:
+  # - source: https://github.com/alexpril83/changhong-newtek-ac
   #   components: [changhong_ac]
 
 uart:
